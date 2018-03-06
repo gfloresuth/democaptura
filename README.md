@@ -1,0 +1,2 @@
+# democaptura
+Captura usando objetos
